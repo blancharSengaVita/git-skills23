@@ -1,0 +1,1 @@
+alert('git is magic');
