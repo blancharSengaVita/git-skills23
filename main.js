@@ -1,1 +1,1 @@
-alert('git is magic');
+alert('git is very magic at home');
